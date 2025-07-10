@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorFlow >=2.10,<2.16
 pillow
 numpy
 opencv-python-headless
